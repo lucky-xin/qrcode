@@ -2,4 +2,4 @@
 server:
   port: ${SERVER_PORT:18089}
   servlet:
-    context-path: ${SERVLET_CONTEXT_PATH:/pistonIdata}
+    context-path: ${SERVLET_CONTEXT_PATH:/}

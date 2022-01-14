@@ -11,8 +11,8 @@ spring:
     allow-bean-definition-overriding: true
     allow-circular-references: true
   application:
-    name: pistonint-qrcode
-  log-dir: ${LOG_DIR:/var/log/pistonint/pistonint-qrcode}
+    name: qrcode
+  log-dir: ${LOG_DIR:/var/log/qrcode}
   profiles:
     active: ${SPRING_PROFILES_ACTIVE:test}
   servlet:

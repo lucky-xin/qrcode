@@ -5,5 +5,5 @@ server:
 
 spring:
   application:
-    name: pistonint-qrcode
+    name: qrcode
 

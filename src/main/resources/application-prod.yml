@@ -4,4 +4,4 @@ server:
     context-path: /
 spring:
   application:
-    name: pistonint-qrcode
+    name: qrcode
